@@ -35,12 +35,12 @@ Este repositório contém um exemplo de código e testes unitários em Python pa
     * Teste de adição de usuário já existente.
     * Teste de atualização de usuário com sucesso.
     * Teste de atualização de usuário inexistente.
-    * Teste de listagem de nomes para um determinado cargo.
+    * Teste de listagem de nomes para um determinado trabalho.
     * Teste de exclusão de usuário.
     * Teste de exclusão de usuário inexistente.
     * Teste de verificação de usuário existente.
     * Teste de verificação de usuário inexistente.
-    * Teste de listagem de nomes para um cargo inexistente.
+    * Teste de listagem de nomes para um trabalho inexistente.
  
 # Arquivos
 - src/models/store.py: Implementação da classe Store que representa um armazenamento de dados para usuários.
