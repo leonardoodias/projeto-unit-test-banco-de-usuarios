@@ -27,7 +27,8 @@ Este repositório contém um exemplo de código e testes unitários em Python pa
   - [x] Recuperar o nome da pessoa de acordo com o trabalho dela
 
 # TESTES
-- [x] Testes unitários  
+- [x] Testes unitários
+* Esses testes visam garantir o correto funcionamento dos métodos da classe ServiceUser em diferentes cenários.
 - A cobertura de testes da classe ServiceUser é abrangente e inclui os seguintes cenários:
     * Teste de adição de usuário com sucesso.
     * Teste de adição de usuário inválido.
@@ -40,8 +41,7 @@ Este repositório contém um exemplo de código e testes unitários em Python pa
     * Teste de verificação de usuário existente.
     * Teste de verificação de usuário inexistente.
     * Teste de listagem de nomes para um cargo inexistente.
-  - Esses testes visam garantir o correto funcionamento dos métodos da classe ServiceUser em diferentes cenários.
-
+ 
 # Arquivos
 - src/models/store.py: Implementação da classe Store que representa um armazenamento de dados para usuários.
 - src/models/user.py: Implementação da classe User que representa um usuário.
