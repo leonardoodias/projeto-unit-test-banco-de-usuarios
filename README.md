@@ -43,15 +43,15 @@ Este repositório contém um exemplo de código e testes unitários em Python pa
     * Teste de listagem de nomes para um trabalho inexistente.
  
 # Arquivos
-- src/models/store.py: Implementação da classe Store que representa um armazenamento de dados para usuários.
-- src/models/user.py: Implementação da classe User que representa um usuário.
-- src/service/service_user.py: Implementação da classe ServiceUser que fornece serviços relacionados aos usuários.
-- tests/test_service_user.py: Testes unitários para a classe ServiceUser.
+- ***src/models/store.py***: Implementação da classe Store que representa um armazenamento de dados para usuários.
+- ***src/models/user.py***: Implementação da classe User que representa um usuário.
+- ***src/service/service_user.py***: Implementação da classe ServiceUser que fornece serviços relacionados aos usuários.
+- ***tests/test_service_user.py****: Testes unitários para a classe ServiceUser.
 
-***Contribuição***
+# ***Contribuição***
 Fique à vontade para contribuir com melhorias, correções ou novos recursos para este projeto. Sinta-se à vontade para abrir problemas ou enviar solicitações de recebimento. *** Seu feedback é bem-vindo!***
 
-***Licença***
+# ***Licença***
 Este projeto está licenciado nos termos da licença MIT. Consulte o arquivo LICENSE para obter mais informações.
 
 Espero que este repositório seja útil para entender e praticar os testes unitários em Python. Se você tiver alguma dúvida ou precisar de mais informações, não hesite em entrar em contato.
