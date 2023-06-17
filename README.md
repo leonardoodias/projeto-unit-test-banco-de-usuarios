@@ -1,9 +1,7 @@
-# Banco-Usuarios
-Disciplina de Testes Unitários do Curso de Especialização em Testes Ágeis - Cesar Schol
+# Projeto | Banco-Usuarios
 
-Este repositório tem como finalidade gerenciar os entregavéis de tarefas da disciplina de Testes Unitários, ministrado pelo professor Fabricio Torquato, para o curso ***Especialização ETA 2022.B***.
-
-Este repositório contém um exemplo de código e testes unitários em Python para a classe ServiceUser do serviço de usuário.
+* Este repositório tem como finalidade gerenciar os entregavéis de tarefas da disciplina de Testes Unitários, ministrado pelo professor Fabricio Torquato, para o curso ***Especialização ETA 2022.B***.
+* Este repositório contém um exemplo de código e testes unitários em Python para a classe ServiceUser do serviço de usuário.
 
 # Tarefas - Hands On : ***16/06/2023***
 # SETUP
