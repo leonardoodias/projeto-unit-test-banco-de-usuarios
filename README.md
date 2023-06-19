@@ -12,9 +12,9 @@
     - Link para baixar o Conda:  https://www.anaconda.com/download/ ou https://docs.conda.io/en/latest/miniconda.html
     - Dicas: https://conda.io/projects/conda/en/latest/user-guide/install/windows.html
 - [x] Troubleshooting para Windows
-    1- Run PowerShell as Administrator and do Set-ExecutionPolicy Unrestricted to allow running conda init script. 
-    2- In PowerShell, do miniconda3/Scripts/conda.exe init powershell, restart the shell to make sure conda is properly initialized. 
-    3- Start new project in PyCharm with a new Conda environment.
+   - 1- Run PowerShell as Administrator and do Set-ExecutionPolicy Unrestricted to allow running conda init script.
+   - 2- In PowerShell, do miniconda3/Scripts/conda.exe init powershell, restart the shell to make sure conda is properly initialized.
+   - 3- Start new project in PyCharm with a new Conda environment.
 
 # DESENVOLVIMENTO
 - [x] Criar os métodos no arquivo Service_User 
